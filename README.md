@@ -1,4 +1,4 @@
-z- 👋 Hi, I’m Zeynep Çoban
+z- 👋 Hi, I’m Zeynep 
 - 👀 I’m interest
 - 🌱 I’m currently learning ...Java-Python-SQL-HTML/CSS
 - 💞️ I’m looking to collaborate on ...
